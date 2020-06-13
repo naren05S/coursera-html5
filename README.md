@@ -1,2 +1,2 @@
-# coursera-html5
+# Coursera-Web Design For Everybody
 Final Project
